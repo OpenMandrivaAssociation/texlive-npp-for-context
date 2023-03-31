@@ -1,6 +1,6 @@
 Name:		texlive-npp-for-context
 Version:	51389
-Release:	1
+Release:	2
 Summary:	ConTeXt plugin for Notepad++
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/npp-for-context
