@@ -3,7 +3,7 @@ Version:	51389
 Release:	2
 Summary:	ConTeXt plugin for Notepad++
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/npp-for-context
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/npp-for-context
 License:	noinfo
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/npp-for-context.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/npp-for-context.doc.r%{version}.tar.xz
